@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/college-leave-system/static/js/main.2ba7c0ca.chunk.js",
+    "main.js.map": "/college-leave-system/static/js/main.2ba7c0ca.chunk.js.map",
+    "runtime-main.js": "/college-leave-system/static/js/runtime-main.7cf4a7b8.js",
+    "runtime-main.js.map": "/college-leave-system/static/js/runtime-main.7cf4a7b8.js.map",
+    "static/js/2.ce1818e8.chunk.js": "/college-leave-system/static/js/2.ce1818e8.chunk.js",
+    "static/js/2.ce1818e8.chunk.js.map": "/college-leave-system/static/js/2.ce1818e8.chunk.js.map",
+    "index.html": "/college-leave-system/index.html",
+    "static/js/2.ce1818e8.chunk.js.LICENSE.txt": "/college-leave-system/static/js/2.ce1818e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cf4a7b8.js",
+    "static/js/2.ce1818e8.chunk.js",
+    "static/js/main.2ba7c0ca.chunk.js"
+  ]
+}
