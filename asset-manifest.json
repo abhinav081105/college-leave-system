@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/college-leave-system/static/js/main.b548144e.chunk.js",
-    "main.js.map": "/college-leave-system/static/js/main.b548144e.chunk.js.map",
+    "main.js": "/college-leave-system/static/js/main.74d8568d.chunk.js",
+    "main.js.map": "/college-leave-system/static/js/main.74d8568d.chunk.js.map",
     "runtime-main.js": "/college-leave-system/static/js/runtime-main.7cf4a7b8.js",
     "runtime-main.js.map": "/college-leave-system/static/js/runtime-main.7cf4a7b8.js.map",
-    "static/js/2.48fa4504.chunk.js": "/college-leave-system/static/js/2.48fa4504.chunk.js",
-    "static/js/2.48fa4504.chunk.js.map": "/college-leave-system/static/js/2.48fa4504.chunk.js.map",
+    "static/js/2.6d85c680.chunk.js": "/college-leave-system/static/js/2.6d85c680.chunk.js",
+    "static/js/2.6d85c680.chunk.js.map": "/college-leave-system/static/js/2.6d85c680.chunk.js.map",
     "index.html": "/college-leave-system/index.html",
-    "static/js/2.48fa4504.chunk.js.LICENSE.txt": "/college-leave-system/static/js/2.48fa4504.chunk.js.LICENSE.txt"
+    "static/js/2.6d85c680.chunk.js.LICENSE.txt": "/college-leave-system/static/js/2.6d85c680.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7cf4a7b8.js",
-    "static/js/2.48fa4504.chunk.js",
-    "static/js/main.b548144e.chunk.js"
+    "static/js/2.6d85c680.chunk.js",
+    "static/js/main.74d8568d.chunk.js"
   ]
 }
